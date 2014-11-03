@@ -1,0 +1,30 @@
+body {
+	font-family: lato;
+	color: #BCBBBB;
+	font-size: 300;
+}
+
+hr {
+  border-width: 4px;
+  border-top-color: #BCBBBB;
+}
+
+.header-image {
+	margin-top: 30px;
+	max-height: 150px;
+	max-width: 150px;
+	border-radius: 100%;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+.title-super {
+	font-size: 60px;
+}
+
+.footer-thumb {
+	margin-top: .75em;
+	margin-bottom: 25em;
+}
